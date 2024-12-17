@@ -1,4 +1,3 @@
-Here's the updated **README** with dynamic content sourced from the `index.html` file:
 
 ---
 
