@@ -1,12 +1,10 @@
 
----
-
+```
 # 📄 **Portfolio Website**
 
 This is a fully responsive **Portfolio Website** featuring animations, a contact form, and seamless user experience. Built using modern web technologies, this project showcases my skills, projects, and provides a clean, professional platform for interaction.
 
 ---
-
 
 ## 📋 **Features**
 
@@ -98,11 +96,13 @@ Portfolio/
 ## 🧑‍💻 **Author**
 
 - **Name**: Chandrakumar  
-- **Email**: chandrakumar.developer@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/chandrakumar-s-b26368242
-- **GitHub**: https://github.com/Chan-08
+- **Email**: chandrakumar.developer@gmail.com  
+- **LinkedIn**: [Chandrakumar's LinkedIn](https://www.linkedin.com/in/chandrakumar-s-b26368242)  
+- **GitHub**: [Chandrakumar's GitHub](https://github.com/Chan-08)
 
 ---
 
 By creating this portfolio, I aimed to provide a visually appealing and functional experience for anyone exploring my work. 🚀
+```
 
+This version includes all the sections from your original description, formatted properly for a GitHub README.
