@@ -1,12 +1,13 @@
 
-```markdown
-# 📄 **Portfolio Website**
+---
+
+# Portfolio Website
 
 This is a fully responsive **Portfolio Website** featuring animations, a contact form, and seamless user experience. Built using modern web technologies, this project showcases my skills, projects, and provides a clean, professional platform for interaction.
 
 ---
 
-## 📋 **Features**
+## Features
 
 1. **Smooth Animations with ScrollReveal**  
    - Elements animate when scrolled into view (e.g., `.load1`, `.load2`, etc.).  
@@ -27,7 +28,7 @@ This is a fully responsive **Portfolio Website** featuring animations, a contact
 
 ---
 
-## 🛠 **Technologies Used**
+## Technologies Used
 
 - **HTML5** - For semantic structure.  
 - **CSS3** - For styling and responsive layout.  
@@ -37,7 +38,7 @@ This is a fully responsive **Portfolio Website** featuring animations, a contact
 
 ---
 
-## 🗂 **Project Structure**
+## Project Structure
 
 ```
 Portfolio/
@@ -50,7 +51,7 @@ Portfolio/
 
 ---
 
-## ✨ **Installation Instructions**
+## Installation Instructions
 
 1. Clone the repository:
    ```bash
@@ -63,7 +64,7 @@ Portfolio/
 
 ---
 
-## 📧 **Form Integration Setup**
+## Form Integration Setup
 
 1. Go to **Google Sheets** > Tools > Script Editor.  
 2. Paste the Apps Script code to capture form data.  
@@ -76,7 +77,7 @@ Portfolio/
 
 ---
 
-## 🔧 **How it Works**
+## How it Works
 
 - **Animations:** Elements animate using ScrollReveal when they enter the viewport.
 - **Form Validation:** User inputs are validated for name, email, phone, and message.
@@ -85,7 +86,7 @@ Portfolio/
 
 ---
 
-## 🎯 **Future Improvements**
+## Future Improvements
 
 - Add **dark/light mode toggle**.  
 - Integrate a backend for portfolio projects.  
@@ -93,7 +94,7 @@ Portfolio/
 
 ---
 
-## 🧑‍💻 **Author**
+## Author
 
 - **Name**: Chandrakumar  
 - **Email**: chandrakumar.developer@gmail.com  
@@ -103,5 +104,6 @@ Portfolio/
 ---
 
 By creating this portfolio, I aimed to provide a visually appealing and functional experience for anyone exploring my work. 🚀
-```
+
+---
 
