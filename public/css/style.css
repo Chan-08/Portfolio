@@ -112,7 +112,7 @@ body {
 }
 .image-container {
     width: 100%;
-    height: auto;
+    height: 94.5vh;
     display: flex;
     justify-content: end;
 }
@@ -893,7 +893,7 @@ footer {
 /*glitch */
 
 .glitch {
-    font-size: 15vw;
+    font-size: 13vw;
     font-weight: bold;
     text-transform: uppercase;
     color: white;
