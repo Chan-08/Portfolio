@@ -18,7 +18,7 @@ body {
     letter-spacing: 2px;
     margin: 0;
     overflow-x: hidden;
-    background-image: url(/images/background.png);
+    background-image: url(../images/background.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -596,7 +596,7 @@ body {
         width: 0;
     }
     100% {
-        width: 75%;
+        width: 65%;
     }
 }
 @keyframes load5 {
